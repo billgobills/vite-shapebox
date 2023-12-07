@@ -838,9 +838,9 @@ doctrine@^3.0.0:
     esutils "^2.0.2"
 
 electron-to-chromium@^1.4.601:
-  version "1.4.607"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.607.tgz#340cc229b504966413716c6eae67d0f3d3702ff0"
-  integrity sha512-YUlnPwE6eYxzwBnFmawA8LiLRfm70R2aJRIUv0n03uHt/cUzzYACOogmvk8M2+hVzt/kB80KJXx7d5f5JofPvQ==
+  version "1.4.608"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.608.tgz#ff567c51dde4892ae330860c7d9f19571e9e1d69"
+  integrity sha512-J2f/3iIIm3Mo0npneITZ2UPe4B1bg8fTNrFjD8715F/k1BvbviRuqYGkET1PgprrczXYTHFvotbBOmUp6KE0uA==
 
 esbuild@^0.19.3:
   version "0.19.8"
@@ -1498,10 +1498,10 @@ semver@^7.5.4:
   dependencies:
     lru-cache "^6.0.0"
 
-shapebox@1.0.0-main.2:
-  version "1.0.0-main.2"
-  resolved "https://registry.yarnpkg.com/shapebox/-/shapebox-1.0.0-main.2.tgz#7a859522695c903ed9a0175e734763c2f53ff848"
-  integrity sha512-AAHEPaXZyB6ee/0m138y3SBmcfTy/0VooCH8hnkBTj1BAaFz211mzZF7NnQhNnwHU3BGzU9HytAxGVa16Ge7vg==
+shapebox@*:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/shapebox/-/shapebox-1.0.0.tgz#50c2d4e6d59d0d88752f98d8ecd6df3a8f2be1ac"
+  integrity sha512-jaF9m/xVFUAkW6KXGTMiq1QAzvhNZ8TWtSSaWZYokSnIlDHVSXuOlPzK1i5218wFD9JaISt9H9m6pA9nIGCJ9A==
 
 shebang-command@^2.0.0:
   version "2.0.0"
