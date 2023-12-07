@@ -1498,7 +1498,7 @@ semver@^7.5.4:
   dependencies:
     lru-cache "^6.0.0"
 
-shapebox@*:
+shapebox@1.0.0-main.2:
   version "1.0.0-main.2"
   resolved "https://registry.yarnpkg.com/shapebox/-/shapebox-1.0.0-main.2.tgz#7a859522695c903ed9a0175e734763c2f53ff848"
   integrity sha512-AAHEPaXZyB6ee/0m138y3SBmcfTy/0VooCH8hnkBTj1BAaFz211mzZF7NnQhNnwHU3BGzU9HytAxGVa16Ge7vg==
