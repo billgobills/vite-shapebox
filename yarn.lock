@@ -1499,9 +1499,9 @@ semver@^7.5.4:
     lru-cache "^6.0.0"
 
 shapebox@*:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/shapebox/-/shapebox-1.0.0.tgz#50c2d4e6d59d0d88752f98d8ecd6df3a8f2be1ac"
-  integrity sha512-jaF9m/xVFUAkW6KXGTMiq1QAzvhNZ8TWtSSaWZYokSnIlDHVSXuOlPzK1i5218wFD9JaISt9H9m6pA9nIGCJ9A==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/shapebox/-/shapebox-1.0.2.tgz#a927e7aa46348bf53e81375fe52b8ae25a9c1795"
+  integrity sha512-p/GzBf6iueLoqW9G+fAZYS/IK1ezGozuFnv+th/yu/cqnRglfmv77bpRvYnhF2pCgnxXGXDXnL4FBnWIVGWk6g==
 
 shebang-command@^2.0.0:
   version "2.0.0"
